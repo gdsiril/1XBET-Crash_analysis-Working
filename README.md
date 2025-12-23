@@ -1,5 +1,5 @@
-
-<body>
+https://github.com/yourusername/1XBET-Crash-Analysis.git
+<body>1.42
     <h1>1XBET-Crash Analysis</h1>
     <p>Welcome to the <strong>1XBET-Crash Analysis</strong> repository. This project aims to provide an in-depth analysis and insights into the crash patterns and trends on the 1XBET platform.</p>
   
